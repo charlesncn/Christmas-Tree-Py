@@ -1,6 +1,6 @@
 # Christmas-Tree-Py
-> python
->> turtle
+> **Languange** python
+>> **Library** turtle
 
 ### result
 
